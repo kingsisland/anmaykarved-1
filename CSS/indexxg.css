@@ -1,0 +1,115 @@
+.na{
+    background: #ffff00;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+.a{
+    height: 440px;
+
+    width: 20%;
+    padding-right: 50px;
+    background: pink;
+    text-align: center;
+    }
+.b{
+    height: 500px;
+    background: pink;
+    width: 20%;
+    padding-right: 50px;
+    text-align: center;
+}
+.b1{
+    height: 700px;
+    background: pink;
+    width: 25%;
+    padding-right: 50px;
+    text-align: center;
+}
+.c{
+    height: 500px;
+    width: 20%;
+    background: pink;
+    text-align: center;
+    padding-right: 50px;
+}
+.c1{
+    height: 500px;
+    background: pink;
+    width: 25%;
+    text-align: center;
+    padding-right: 50px;
+}
+.d{
+    height: 200px;
+    background: yellowgreen;
+
+}
+.e{
+    height: 500px;
+    width: 20%;
+    text-align: center;
+    background: pink;
+    padding-right: 50px;
+}
+.e1{
+    height: 500px;
+    width: 25%;
+    text-align: center;
+    background: pink;
+    padding-right: 50px;
+}
+.f{
+    height:500px;
+    width: 20%;
+    text-align: center;
+    background: pink;
+    padding-right: 50px;
+}
+.f1{
+    height:500px;
+    width: 25%;
+    text-align: center;
+    background: pink;
+    padding-right: 50px;
+}
+.g{
+    height:500px;
+    width: 20%;
+    text-align: center;
+}
+.shead{
+    height: 300px;
+    background: yellowgreen;
+    margin-bottom: 50px;
+}
+.ehead{
+    height: 300px;
+    background: yellowgreen;
+}
+.thead{
+     height: 300px;
+     background: yellowgreen;
+ }
+.chead{
+      height: 300px;
+      background: yellowgreen;
+  }
+.k{
+    text-align: center;
+    padding-left: 100%;
+}
+.n{
+    height: 0px;
+}
+.z{
+    width: 100%;
+}
+.y{
+    height: 100%;
+    background: pink;
+}
+.v{
+    height: 50px;
+    background: yellowgreen;
+}
